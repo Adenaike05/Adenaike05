@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Adenaike Ademola 👋</h1>
+<h1 align="center">Hi there, I'm Adenaike Ademola David 👋</h1>
 
 <p align="center">
   <em>I’m a learner of the ALX Software Engineering program and am currently on a mission to become a proficient backend web developer.</em>
@@ -34,6 +34,7 @@ I aspire to become a **backend engineer who crafts efficient systems** that powe
   "Tools": ["Git", "GitHub", "Postman", "VS Code", "Linux CLI"],
   "Others": ["Power BI", "QuickBooks", "Zoho Books"]
 }
+
 📘 Current Learning Focus
 🔧 ALX Backend Projects
 
